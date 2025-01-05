@@ -1,1 +1,1 @@
-# RinkyPal
+User Mangement Project
